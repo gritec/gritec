@@ -1,0 +1,23 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid coral;
+}
+
+
+
+body{
+    color:aliceblue;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+    background-image: url(./img/mememoria.png);
+
+}
+h2 { font-family: Georgia, 'Times New Roman', Times, serif;}
+
+
+h1{
+    color:coral;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
